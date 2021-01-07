@@ -258,8 +258,8 @@
          "properties":[
                 {
                  "name":"startLayer",
-                 "type":"string",
-                 "value":"#left"
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
