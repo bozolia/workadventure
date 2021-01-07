@@ -65,9 +65,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.google.com\/vqm-rxxm-kqu"
+                 "value":"meet1"
                 }],
          "type":"tilelayer",
          "visible":true,
